@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+    "git.ignoreLimitWarning": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+>>>>>>> bd789e0 (Initial commit)
     "java.compile.nullAnalysis.mode": "automatic"
 }
